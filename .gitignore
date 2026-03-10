@@ -1,0 +1,5 @@
+# Redirect all calls
+node_modules/
+dist/
+build/
+.env
